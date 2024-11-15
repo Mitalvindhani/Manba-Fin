@@ -1,0 +1,23 @@
+
+
+.cnct_help_title{
+    color: #00adef;
+    font-family: Poppins;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.provide_img{
+    width: 70px;
+    transition: 0.9s all;
+}
+.provide_img:hover{
+    transform: translatey(-40px);
+}
+.provide_text{
+    font-size: 16px;
+}
+.cnct_title{
+    font-size: 24px;
+}

@@ -1,0 +1,18 @@
+.info_img_bg {
+    background-image: url('../assets/images/serviceaboutimg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    width: 300px;
+
+}
+
+.service_text {
+    font-family: Inter;
+    font-size: 22px;
+    font-weight: 600;
+}

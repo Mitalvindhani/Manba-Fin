@@ -1,0 +1,31 @@
+.card_about {
+    background-color: #2dbcf6 !important;
+    border-radius: 25px;
+    box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.18);
+}
+
+.card_about_img {
+    background-color: white !important;
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card_about_imges {
+    height: 50px;
+    width: 50px;
+    transition: 0.4s all;
+    
+}
+
+.card_about_imges:hover {
+    transform: scale(1.5);
+}
+.about_text{
+    font-size: 15px !important;
+}

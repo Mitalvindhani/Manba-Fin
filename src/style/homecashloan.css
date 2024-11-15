@@ -1,0 +1,109 @@
+.text_custm_blue{
+    color: #00adef !important;
+}
+.bg_div{
+    position: relative;
+    max-width: 100%;
+    max-height: 1000px !important;
+}
+
+.bg_img_homeCashLoan{
+    position: absolute;
+    left: -50px;
+    top: 350px;
+    max-width: 100%;
+    transform: scale(2.5);
+    z-index: -1;
+}
+.img_meet{
+    max-width: 1000px;
+    max-height: 950px;
+    border: 5px solid white;
+    border-radius: 40px;
+    overflow: hidden;
+}
+.img-fluid_img_meet {
+    width: 940px;
+    height: 650px;
+}
+
+.bg_div a {
+    background-color: #fff;
+    border: 3px solid #55a0e4;
+}
+.bg_div .btn {
+    position: relative;
+    color: #3498db;
+    border: 2px solid #3498db;
+    padding: 10px 20px;
+    display: block;
+    overflow: hidden;
+    font-size: 25px;
+    width: 100%;
+    max-width: 180px;
+    margin: 1rem auto;
+    text-transform: uppercase;
+    z-index: 9;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.bg_div .btn {
+    &:before {
+        left: -20px;
+        transition: 0.4s all;
+    }
+}
+.bg_div .btn {
+    &:after {
+        right: -20px;
+        transition: 0.4s all;
+    }
+}
+.bg_div .btn {
+    &:before, &:after {
+        content: '';
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        background-color: #3498db;
+        border-radius: 50%;
+    }
+}
+
+.bg_div .btn {
+    &:hover {
+        color: #fdfdfd !important;
+    }
+}
+.bg_div .btn {
+    &:hover {
+        &:before {
+            animation: criss-cross-left 0.8s both;
+            animation-direction: alternate;
+            position: absolute;
+            left: 50%;
+            top: 0;
+            bottom: 0;
+            border-radius: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+        }
+    }
+}
+.bg_div .btn {
+    &:hover {
+        &:after {
+            animation: criss-cross-right 0.8s both;
+            animation-direction: alternate;
+            position: absolute;
+            right: 50%;
+            top: 0;
+            bottom: 0;
+            border-radius: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+        }
+    }
+}

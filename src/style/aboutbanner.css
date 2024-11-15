@@ -1,0 +1,12 @@
+.aboutBanner{
+    padding: 100px 0 ;
+    background-image: url(../assets/images/aboutBanner.png);
+    background-repeat: no-repeat;
+}
+.banner_head_text{
+    color: #2A6EB3 !important;
+}
+.head_text{
+    color:  #00adef !important;
+    text-decoration: underline;
+}

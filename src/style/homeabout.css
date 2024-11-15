@@ -1,0 +1,14 @@
+.about_img{
+    height: 500px;
+    width: 900px;
+}
+.about_para{
+    padding-top: 30px;
+    font-size: 18px;
+}
+.vr_line{
+    width: 1px;
+    height: 55px;
+    border: 1px dotted #00ADEF;
+    margin: 0 50px;
+}

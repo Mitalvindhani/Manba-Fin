@@ -1,0 +1,22 @@
+.businessloan_div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 460px;    
+    gap: 20px;
+    padding-top: 50px;
+  
+  }
+
+.businessloan_para {    
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+   
+}
+.businessloan_banner_title {
+    color: white;
+    font-size: 35px;
+    font-weight: 500;
+    text-align: center;    
+}

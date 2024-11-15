@@ -1,0 +1,36 @@
+.business_div {
+    background-color: #f1fafe !important;
+    padding: 50px;
+}
+
+.choosepara {
+    font-size: 17px;
+    margin-top: 20px;
+    font-weight: 500;
+}
+
+.business_img {
+    width: 450px;
+    height: 450px;
+    overflow: hidden;
+    border-radius: 40px;
+
+}
+
+ss .business_card_service {
+    transition: 0.4s all;
+    overflow: hidden;
+}
+
+.business_card_service_hover:hover {
+    transform: scale(1.1);
+    transition: all 1s;
+}
+
+.business_text {
+    text-align: start;
+    /* font-family: Poppins; */
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: capitalize;
+}

@@ -1,0 +1,29 @@
+.footer{
+    padding-top: 122px;
+}
+.img-fluid_logo {
+    max-width: 50px;
+    height: auto;
+}
+.logo img {
+    width: 60px;
+  }
+.logo_title {
+    font-size: 24px;
+    margin-left: 10px;
+    margin-bottom: 0;
+    color: white;
+}
+a{
+    text-decoration: none !important;
+}
+.footer_menu{
+    font-size: 16px;
+}
+.ftr_para{
+    padding-top: 40px;
+    font-size: 18px;
+}
+.copyright_para{
+    font-size: 18px;
+}

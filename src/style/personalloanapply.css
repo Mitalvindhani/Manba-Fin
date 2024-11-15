@@ -1,0 +1,18 @@
+.apply_para{
+    font-size: 20px;
+}
+.apply_img{
+    height: 800px;
+    width: 100%;
+}
+.circle_div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.apply_vertical_line{
+    width: 1px;
+  height: 143px;
+  background: #dadada;
+  margin: 0 15px;
+}

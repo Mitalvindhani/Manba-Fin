@@ -1,0 +1,18 @@
+.reason_div{
+    background-color: #F1FAFE;
+}
+.choosepara{
+    font-size: 14px;    
+    margin-top: 20px;
+    font-weight: 500;
+}
+.choose_img{
+    width: 110px;
+    transition: 0.9s all;
+}
+.choose_img:hover{
+    transform: translatey(-40px);
+}
+.choose_text{
+    font-size: 18px;
+}

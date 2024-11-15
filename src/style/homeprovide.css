@@ -1,0 +1,10 @@
+.provide_img{
+    width: 100px;
+    transition: 0.9s all;
+}
+.provide_img:hover{
+    transform: translatey(-40px);
+}
+.provide_text{
+    font-size: 20px;
+}

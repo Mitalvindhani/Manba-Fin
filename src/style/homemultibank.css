@@ -1,0 +1,35 @@
+
+.multibnk_para{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+.service_card_img{
+    width: 80px;
+    height: 80px;
+}
+.bankcard_service{
+    height: 450px;
+   
+}
+.card_service_hover{
+    transition: all 1s;
+}
+.card_service_hover:hover{
+    transform: scale(1.08);
+    transition: all 1s;
+
+}
+.toolshead{
+    font-size: 20px;
+    font-weight: 400;
+}
+.tooltitle{
+    font-size: 43px;
+    font-weight: 400;
+    color: #00ADEF;
+}
+.card_about{
+    box-shadow: 8px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
